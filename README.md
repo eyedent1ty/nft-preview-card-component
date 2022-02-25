@@ -4,5 +4,5 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/eyedent1ty/nft-preview-card-component](https://github.com/eyedent1ty/nft-preview-card-component)
+- Live Site URL: [https://eyedent1ty-nft-preview-card-component.netlify.app/](https://eyedent1ty-nft-preview-card-component.netlify.app/)
