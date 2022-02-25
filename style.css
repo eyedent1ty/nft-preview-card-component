@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+  font-family: 'Outfit';
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+  padding: 15px;
+  border-radius: 10px;
+  width: 300px;
+  background-color: hsl(216, 50%, 16%);
+}
+
+.card-image {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.text {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 600;
+}
+
+.description {
+  font-size: 18px;
+  color: hsl(215, 51%, 70%);
+}
+
+.card-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.card-footer .right-footer {
+  color: hsl(215, 51%, 70%);
+}
+
+.card-footer .left-footer {
+  color: hsl(178, 100%, 50%);
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-color: hsl(215, 32%, 27%);
+  margin-bottom: 15px;
+}
+
+.user {
+  color: hsl(215, 51%, 70%);
+  display: flex;
+  align-items: center;
+}
+
+.user img {
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.user .user-name {
+  color: hsl(0, 0%, 100%);
+  margin-left: 5px;
+}
